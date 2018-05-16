@@ -1,0 +1,50 @@
+
+#nav{
+  background-color: rgba(10,0,20,.15);
+}
+
+body{
+
+	background-image: url(img/awesome.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.jumbotron{
+  text-align: center;
+  background-color: rgba(10,0,20,.5);
+  color: white;
+}
+
+#subhead{
+  color: white;
+}
+
+#ava{
+  width: 150px;
+  height: 150px;
+}
+
+.linkedin-button{
+  display: block;
+  margin-top: 20px;
+}
+
+#candice{
+  color: rgba(10,0,20,.5);
+}
+
+
+.list{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.row{
+  text-align: center;
+}
+
+.row{
+  margin-bottom: 80px;
+
+}
